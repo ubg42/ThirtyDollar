@@ -1,7 +1,6 @@
 [
     { "id": "_pause", "img": "empty", "name": "Silence", "source": "", "tags": ["note", "percussion"] },
     { "id": "boom", "name": "Vine Boom", "source": "", "tags": ["percussion"] },
-    { "id": "son_of_a", "name": "Son Of A...", "source": "McMuffin" },
     { "id": "screaming_chicken", "name": "Screaming Chicken", "source": "McMuffin" },
     { "id": "i_got_this", "name": "I Got This", "source": "McMuffin" },
     { "id": "frog", "name": "Robert Frog", "source": "McMuffin" },
