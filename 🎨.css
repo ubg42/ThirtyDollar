@@ -725,6 +725,10 @@ button {
     align-items: flex-end;
 }
 
+.html {
+    color: white
+}
+
 .hotbarTab {
     pointer-events: all;
     width: 70px;
