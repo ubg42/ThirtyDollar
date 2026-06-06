@@ -5,7 +5,6 @@
     { "id": "screaming_chicken", "name": "Screaming Chicken", "source": "McMuffin" },
     { "id": "i_got_this", "name": "I Got This", "source": "McMuffin" },
     { "id": "frog", "name": "Robert Frog", "source": "McMuffin" },
-    { "id": "dont_you_lecture_me_with_you_30_dollar_haircut", "name": "Don't You Lecture Me With Your $30 Haircut", "source": "" },    
     { "id": "bruh", "name": "Bruh Sound Effect #2", "source": "" },
     { "id": "bong", "name": "Bong", "source": "Taco Bell", "tags": ["note"] },
     { "id": "airhorn", "name": "Airhorn", "source": "", "tags": ["note"] },
