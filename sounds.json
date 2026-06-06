@@ -1,7 +1,7 @@
 [
     { "id": "_pause", "img": "empty", "name": "Silence", "source": "", "tags": ["note", "percussion"] },
     { "id": "boom", "name": "Vine Boom", "source": "", "tags": ["percussion"] },
-    { "id": "son", "name": "Son Of A...", "source": "", "tags": ["percussion"] },
+    { "id": "son", "name": "Son Of A...", "source": "" },
     { "id": "bruh", "name": "Bruh Sound Effect #2", "source": "" },
     { "id": "bong", "name": "Bong", "source": "Taco Bell", "tags": ["note"] },
     { "id": "airhorn", "name": "Airhorn", "source": "", "tags": ["note"] },
