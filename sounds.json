@@ -37,6 +37,7 @@
     { "id": "bonk", "emoji": "🏏", "name": "Bonk", "source": "", "tags": ["percussion"] },
     { "id": "pan", "name": "Frying Pan", "tags": ["percussion"] },
     { "id": "gun", "name": "Gun Reload", "source": "" },
+    { "id": "gunshot", "name": "Gun Shot", "source": "" },
     { "id": "ominous", "emoji": "🪦", "name": "Ominous Bell", "tags": ["note"] },
 
     { "id": "samsung", "emoji": "📲", "name": "Skyline Notification", "source": "Samsung", "tags": ["melody"] },
