@@ -4,6 +4,7 @@
     { "id": "screaming_chicken", "name": "Screaming Chicken", "source": "McMuffin" },
     { "id": "i_got_this", "name": "I Got This", "source": "McMuffin" },
     { "id": "frog", "name": "Robert Frog", "source": "McMuffin" },
+    { "id": "son_of_a", "name": "Son Of A...", "source": "McMuffin" },    
     { "id": "discord_notification", "name": "Discord Notification", "source": "Discord" },
     { "id": "bruh", "name": "Bruh Sound Effect #2", "source": "" },
     { "id": "bong", "name": "Bong", "source": "Taco Bell", "tags": ["note"] },
